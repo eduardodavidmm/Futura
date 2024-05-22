@@ -28,8 +28,8 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
-          title="Pay once, use forever"
+          tag="Empieza Hoy"
+          title="Paga hoy, empieza a ver resultados."
         />
 
         <div className="relative">
@@ -43,7 +43,7 @@ const Pricing = () => {
             className="text-xs font-code font-bold tracking-wider uppercase border-b"
             href="/pricing"
           >
-            See the full details
+            Ver todos los detalles
           </a>
         </div>
       </div>

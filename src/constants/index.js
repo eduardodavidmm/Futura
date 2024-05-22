@@ -39,33 +39,33 @@ import {
 export const navigation = [
   {
     id: "0",
-    title: "Features",
+    title: "Inicio",
     url: "#features",
   },
   {
     id: "1",
-    title: "Pricing",
+    title: "Precio",
     url: "#pricing",
   },
   {
     id: "2",
-    title: "How to use",
+    title: "Acerca de",
     url: "#how-to-use",
   },
   {
     id: "3",
-    title: "Roadmap",
+    title: "Pefil",
     url: "#roadmap",
   },
   {
     id: "4",
-    title: "New account",
+    title: "Tu Cuenta",
     url: "#signup",
     onlyMobile: true,
   },
   {
     id: "5",
-    title: "Sign in",
+    title: "Login",
     url: "#login",
     onlyMobile: true,
   },
@@ -210,7 +210,7 @@ export const pricing = [
     id: "0",
     title: "Basic",
     description: "AI chatbot, personalized recommendations",
-    price: "0",
+    price: " 2,000.00",
     features: [
       "An AI chatbot that can understand your queries",
       "Personalized recommendations based on your preferences",
