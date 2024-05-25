@@ -16,7 +16,7 @@ export default {
           6: "#FF98E2",
         },
         stroke: {
-          1: "#26242C",
+          1: "#000000",
         },
         n: {
           1: "#FFFFFF",
@@ -24,13 +24,13 @@ export default {
           3: "#ADA8C3",
           4: "#757185",
           5: "#3F3A52",
-          6: "#252134",
-          7: "#15131D",
-          8: "#0E0C15",
-          9: "#474060",
-          10: "#43435C",
-          11: "#1B1B2E",
-          12: "#2E2A41",
+          6: "#000000",
+          7: "#000000",
+          8: "#000000",
+          9: "#000000",
+          10: "#000000",
+          11: "#000000",
+          12: "#000000",
           13: "#6C7275",
         },
       },
@@ -69,7 +69,7 @@ export default {
       backgroundImage: {
         "radial-gradient": "radial-gradient(var(--tw-gradient-stops))",
         "conic-gradient":
-          "conic-gradient(from 225deg, #FFC876, #79FFF7, #9F53FF, #FF98E2, #FFC876)",
+          "conic-gradient(from 225deg, #000000, #000000, #000000, #000000, #000000)",
       },
     },
   },
