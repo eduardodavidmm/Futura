@@ -21,6 +21,7 @@ import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
 import background from "./background.jpg";
 import logowhite from "./logowhite.png";
+import logopetsmart from "./logopestmart.png";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
@@ -146,4 +147,5 @@ export {
   telegram,
   twitter,
   logowhite,
+  logopetsmart,
 };
